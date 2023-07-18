@@ -5,10 +5,11 @@ I'm a Bachelor's student of Software Engineering at University of Minho.
 ## 🎓 Bachelor's Projects
 | Subject | |
 | --- | :---: |
-| Sistemas Operativos | [Project](https://github.com/Vaz7/SO) in C |
-| Análise e Teste de Software | [Project](https://github.com/TrueEoM/ATS22-23) in Java |
-| Desenvolvimento de Sistemas de Software | [Project](https://github.com/joaocasr/DSS22-23-GP1) in Java and UML |
-| Inteligência Artificial | [Project](https://github.com/TrueEoM/IA) in Python |
-| Processamento de Linguagens | [Project](https://github.com/joaocasr/PL-JSONFY) in Python |
-| Computação Gráfica | [Project](https://github.com/joaocasr/CG2022-23) in C++ |
-| Comunicações por Computador | [Project](https://github.com/TrueEoM/CC) in Java |
+| Software Analysis and Testing | [Project](https://github.com/TrueEoM/ATS22-23) in Java |
+| Language Processing | [Project](https://github.com/joaocasr/PL-JSONFY) in Python |
+| Software Systems Development | [Project](https://github.com/joaocasr/DSS22-23-GP1) in Java and UML |
+| Operating Systems | [Project](https://github.com/Vaz7/SO) in C |
+| Computer Graphics | [Project](https://github.com/joaocasr/CG2022-23) in C++ |
+| Artificial intelligence | [Project](https://github.com/TrueEoM/IA) in Python |
+| Program Calculation | [Project](https://github.com/TrueEoM/CalcProg) in Haskell |
+| Computer Communications | [Project](https://github.com/TrueEoM/CC) in Java |
